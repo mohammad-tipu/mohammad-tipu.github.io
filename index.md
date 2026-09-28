@@ -31,6 +31,6 @@ I integrate physiological assays (internal ethylene concentration, fruit firmnes
 ## Connect
 
 * **Email:** [mtipu@umd.edu](mailto:mtipu@umd.edu)
-* **Google Scholar:** [Add your Scholar profile link here](https://scholar.google.com)
-* **ResearchGate:** [Add your ResearchGate link here](https://www.researchgate.net)
-* **LinkedIn:** [Add your LinkedIn profile link here](https://www.linkedin.com)
+* **Google Scholar:** (https://scholar.google.com/citations?user=ATOV70kAAAAJ&hl=en&oi=ao)
+* **ResearchGate:** (https://www.researchgate.net/profile/Mohammad-Tipu)
+* **LinkedIn:** (https://www.linkedin.com/in/mohammad-monirul-hasan/)
