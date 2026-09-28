@@ -12,10 +12,10 @@ My research bridges whole-canopy tree fruit physiology, post-harvest quality pre
 ## 1. Post-Harvest Physiology & Cold Storage Dynamics (UMD)
 *Postdoctoral Research | Department of Plant Science & Landscape Architecture, University of Maryland, College Park*
 
-Post-harvest storage strategies must balance firmness retention, metabolic stability, and disorder mitigation. My current research focuses on:
+Post-harvest storage strategies must balance firmness retention, metabolic stability, and physiological disorder mitigation. My current research focuses on:
 * **Storage Temperature Regimes:** Evaluating physiological responses and fruit quality dynamics under standard commercial cold storage regimes (0°C vs. 3°C regular air).
-* **Ethylene Perception Inhibition (1-MCP):** Assessing the efficacy of 1-methylcyclopropene treatments in custom sealed enclosures to suppress ethylene synthesis and maintain firmness in commercial cultivars such as 'Ambrosia' and 'Fuji'.
-* **Post-Storage Shelf-Life Tracking:** Profiling internal ethylene concentration (IEC), soluble solids content (SSC), titratable acidity (TA), and volatile profiles during extended room temperature (20°C) shelf-life evaluations following cold storage.
+* **Ethylene Perception Inhibition (1-MCP):** Assessing the efficacy of 1-methylcyclopropene treatments in custom sealed enclosures to suppress ethylene synthesis and maintain hormonal balance in commercial cultivars such as 'Ambrosia' and 'Fuji'.
+* **Post-Storage Shelf-Life Tracking:** Profiling internal ethylene concentration (IEC), soluble solids content (SSC), titratable acidity (TA), hormonal and genomic profiles during extended room temperature (20°C) shelf-life evaluations following cold storage.
 
 ---
 
@@ -23,9 +23,9 @@ Post-harvest storage strategies must balance firmness retention, metabolic stabi
 *Doctoral Dissertation Research | Alson H. Smith Jr. AREC, Virginia Tech*
 
 A major commercial challenge in apple production (*Malus × domestica*) is the trade-off between allowing fruit to hang long enough to develop red color and preventing pre-harvest fruit drop:
-* **Synergistic Plant Growth Regulator (PGR) Strategies:** Investigated combinations of aminoethoxyvinylglycine (AVG, an ethylene biosynthesis inhibitor) and 1-aminocyclopropane-1-carboxylic acid (ACC, an ethylene precursor) or naphthaleneacetic acid (NAA) to decouple fruit abscission from peel red coloration in cultivars like 'Honeycrisp'.
-* **Abscission Zone (AZ) Dynamics:** Characterized cell separation events, reactive oxygen species (ROS) accumulation (superoxide and hydrogen peroxide), and cellular degradation in the pedicel-cortex abscission zone.
-* **Molecular Profiling & Gene Expression:** Conducted RNA-Seq, DESeq2 differential expression, and qRT-PCR validation on canonical ethylene pathway components (`MdETR1`, `MdERS1`, `MdCTR1`, `MdEIN2`, `MdERFs`) and auxin-responsive regulatory genes (`GH3`, `ARF`, `AUX/IAA`) to elucidate hormonal crosstalk governing fruit retention.
+* **Synergistic Plant Growth Regulator (PGR) Strategies:** Investigated combinations of aminoethoxyvinylglycine (AVG, an ethylene biosynthesis inhibitor) and 1-aminocyclopropane-1-carboxylic acid (ACC, an ethylene precursor) or naphthaleneacetic acid (NAA) to decouple fruit abscission from ripening and enhance peel red coloration in cultivars like 'Honeycrisp'.
+* **Abscission Zone (AZ) Dynamics:** Characterized cell separation events, reactive oxygen species (ROS) accumulation (superoxide and hydrogen peroxide), and cellular degradation in the pedicel abscission zone.
+* **Molecular Profiling & Gene Expression:** Conducted RNA-Seq, DESeq2 differential expression, and qRT-PCR validation on canonical ethylene-auxin pathway components and stress-responsive regulatory genes to elucidate hormonal crosstalk with ROS homeostasis governing fruit retention.
 
 ---
 
@@ -43,7 +43,7 @@ Prior to my doctoral work, my research focused on plant disease diagnostics, mol
 
 | Area | Techniques & Tools |
 | :--- | :--- |
-| **Physiology & Fruit Quality** | Internal Ethylene Concentration (Gas Chromatography), DA-meter index ($I_{AD}$), acoustic firmness, colorimetry ($L^*, a^*, b^*$, hue angle), starch-iodine index, titratable acidity |
-| **Biochemistry** | Spectrophotometric ROS quantification ($H_2O_2, O_2^{\bullet-}$), lipid peroxidation (MDA), antioxidant enzyme assays (SOD, CAT, POD) |
-| **Molecular Biology** | CTAB RNA/DNA extraction from recalcitrant fruit tissues, cDNA synthesis, RT-qPCR, primer design, gene cloning |
+| **Physiology & Fruit Quality** | Internal Ethylene Concentration (Gas Chromatography), DA-meter index, acoustic firmness, colorimetry, starch-iodine index, titratable acidity |
+| **Biochemistry** | Spectrophotometric quantification of pigments, non-structural carbohydrates and ROS |
+| **Molecular Biology** | CTAB RNA/DNA extraction from recalcitrant fruit tissues, cDNA synthesis, RT-qPCR, primer design, basic tissue culture |
 | **Bioinformatics & Analytics** | RNA-Seq analysis (Salmon, tximport, DESeq2), KEGG pathway enrichment, DAVID functional annotation, R (`ggplot2`, `agricolae`, `patchwork`), JMP statistical modeling (ANOVA, Tukey’s HSD) |
