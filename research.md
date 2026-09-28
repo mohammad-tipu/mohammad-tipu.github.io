@@ -5,15 +5,45 @@ title: Research
 
 # Research Overview
 
-My research bridges whole-canopy pomology and molecular biology to solve fundamental and applied challenges in commercial fruit production.
+My research bridges whole-canopy tree fruit physiology, post-harvest quality preservation, and molecular biology. I combine field horticultural trials, biochemical assays, and transcriptomic profiling to solve critical challenges in commercial fruit production and post-harvest storage.
 
 ---
 
-### 1. Pre-Harvest Fruit Drop & Abscission Signaling
-Pre-harvest fruit drop causes substantial economic loss in commercial apple production. My work investigates the physiological and molecular cross-talk between ethylene and auxin in the abscission zone (AZ), examining how plant growth regulators (PGRs) such as AVG (aminoethoxyvinylglycine), NAA (1-naphthaleneacetic acid), and ACC influence fruit retention and drop dynamics.
+## 1. Post-Harvest Physiology & Cold Storage Dynamics (UMD)
+*Postdoctoral Research | Department of Plant Science & Landscape Architecture, University of Maryland, College Park*
 
-### 2. Post-Harvest Physiology & Cold Storage Regimes
-Optimizing fruit shelf life and physiological quality requires balancing storage temperatures and senescence inhibitors. Current investigations focus on commercial storage regimes (e.g., 0°C vs. 3°C regular air) and 1-methylcyclopropene (1-MCP) treatments on cultivars such as 'Ambrosia' and 'Fuji' to mitigate post-harvest disorders and maintain firmness.
+Post-harvest storage strategies must balance firmness retention, metabolic stability, and disorder mitigation. My current research focuses on:
+* **Storage Temperature Regimes:** Evaluating physiological responses and fruit quality dynamics under standard commercial cold storage regimes (0°C vs. 3°C regular air).
+* **Ethylene Perception Inhibition (1-MCP):** Assessing the efficacy of 1-methylcyclopropene treatments in custom sealed enclosures to suppress ethylene synthesis and maintain firmness in commercial cultivars such as 'Ambrosia' and 'Fuji'.
+* **Post-Storage Shelf-Life Tracking:** Profiling internal ethylene concentration (IEC), soluble solids content (SSC), titratable acidity (TA), and volatile profiles during extended room temperature (20°C) shelf-life evaluations following cold storage.
 
-### 3. Molecular Profiling & Transcriptomics
-To pinpoint regulatory targets in fruit abscission and ripening, I utilize CTAB RNA extractions, transcriptomic alignment (Salmon/tximport), differential expression analysis (DESeq2), and functional enrichment (KEGG, DAVID) alongside qRT-PCR profiling of canonical ethylene pathway genes (`ETR1`, `ERS1`, `CTR1`, `EIN2`, `ERFs`).
+---
+
+## 2. Decoupling Fruit Drop from Ripening & Color Enhancement (Virginia Tech)
+*Doctoral Dissertation Research | Alson H. Smith Jr. AREC, Virginia Tech*
+
+A major commercial challenge in apple production (*Malus × domestica*) is the trade-off between allowing fruit to hang long enough to develop red color and preventing pre-harvest fruit drop:
+* **Synergistic Plant Growth Regulator (PGR) Strategies:** Investigated combinations of aminoethoxyvinylglycine (AVG, an ethylene biosynthesis inhibitor) and 1-aminocyclopropane-1-carboxylic acid (ACC, an ethylene precursor) or naphthaleneacetic acid (NAA) to decouple fruit abscission from peel red coloration in cultivars like 'Honeycrisp'.
+* **Abscission Zone (AZ) Dynamics:** Characterized cell separation events, reactive oxygen species (ROS) accumulation (superoxide and hydrogen peroxide), and cellular degradation in the pedicel-cortex abscission zone.
+* **Molecular Profiling & Gene Expression:** Conducted RNA-Seq, DESeq2 differential expression, and qRT-PCR validation on canonical ethylene pathway components (`MdETR1`, `MdERS1`, `MdCTR1`, `MdEIN2`, `MdERFs`) and auxin-responsive regulatory genes (`GH3`, `ARF`, `AUX/IAA`) to elucidate hormonal crosstalk governing fruit retention.
+
+---
+
+## 3. Plant Pathology, Citrus Greening (HLB), & Crop Protection (BARI)
+*Scientific Officer & Research Assistant | Bangladesh Agricultural Research Institute*
+
+Prior to my doctoral work, my research focused on plant disease diagnostics, molecular identification of phloem-limited pathogens, and integrated pest/disease management:
+* **Citrus Greening (Huanglongbing - HLB):** Conducted molecular detection and confirmation of *Candidatus* Liberibacter asiaticus in Bangladesh across sweet orange and mandarin orchards; developed symptom-based visual diagnostic toolkits for growers.
+* **Viral Pathogens:** Documented the first report and distribution of Citrus Tristeza Virus (CTV) in Bangladesh using serological and molecular assays.
+* **Integrated Disease & Pest Management (IDM/IPM):** Formulated field management packages for vegetable and root crops, including sweet potato weevil (*Cylas formicarius*), soil-borne pathogens (*Athelia rolfsii*), and bacterial/fungal complexes in Solanaceous crops.
+
+---
+
+## Methodological Expertise
+
+| Area | Techniques & Tools |
+| :--- | :--- |
+| **Physiology & Fruit Quality** | Internal Ethylene Concentration (Gas Chromatography), DA-meter index ($I_{AD}$), acoustic firmness, colorimetry ($L^*, a^*, b^*$, hue angle), starch-iodine index, titratable acidity |
+| **Biochemistry** | Spectrophotometric ROS quantification ($H_2O_2, O_2^{\bullet-}$), lipid peroxidation (MDA), antioxidant enzyme assays (SOD, CAT, POD) |
+| **Molecular Biology** | CTAB RNA/DNA extraction from recalcitrant fruit tissues, cDNA synthesis, RT-qPCR, primer design, gene cloning |
+| **Bioinformatics & Analytics** | RNA-Seq analysis (Salmon, tximport, DESeq2), KEGG pathway enrichment, DAVID functional annotation, R (`ggplot2`, `agricolae`, `patchwork`), JMP statistical modeling (ANOVA, Tukey’s HSD) |
