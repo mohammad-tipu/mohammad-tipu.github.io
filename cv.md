@@ -3,55 +3,57 @@ layout: default
 title: CV
 ---
 
-<div style="background-color: #121814; color: #e2e8f0; padding: 28px; border-radius: 16px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; max-width: 680px; margin: 20px 0; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
+<div style="background: #ffffff; border: 1px solid #e2e8f0; border-top: 4px solid #2563eb; border-radius: 12px; padding: 32px; max-width: 680px; margin: 24px 0; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
 
-  <h2 style="color: #ffffff; margin-top: 0; margin-bottom: 8px; font-size: 26px; font-weight: 700;">Request the full CV</h2>
-  <p style="color: #94a3b8; margin-bottom: 24px; font-size: 15px; line-height: 1.5;">
-    My full CV is not posted publicly. Tell me a little about yourself and I will reply with a copy, usually within a few days.
-  </p>
+  <div style="margin-bottom: 24px;">
+    <h2 style="color: #0f172a; margin: 0 0 8px 0; font-size: 24px; font-weight: 700; tracking: -0.01em;">Request Full Curriculum Vitae</h2>
+    <p style="color: #64748b; margin: 0; font-size: 14px; line-height: 1.6;">
+      My complete academic CV is available upon request. Please share a few brief details below and I will respond with a PDF copy.
+    </p>
+  </div>
 
   <form id="cvForm" onsubmit="sendCVEmail(event)">
-    <div style="display: flex; gap: 16px; margin-bottom: 16px; flex-wrap: wrap;">
-      <div style="flex: 1; min-width: 240px;">
-        <label style="display: block; color: #f1f5f9; font-weight: 600; font-size: 14px; margin-bottom: 6px;">Your name *</label>
-        <input type="text" id="visitorName" required style="width: 100%; background: #1a221d; border: 1px solid #334155; border-radius: 8px; padding: 10px 12px; color: #ffffff; font-size: 14px; box-sizing: border-box; outline: none;">
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin-bottom: 16px;">
+      <div>
+        <label style="display: block; color: #334155; font-weight: 600; font-size: 13px; text-transform: uppercase; letter-spacing: 0.04em; margin-bottom: 6px;">Your Name *</label>
+        <input type="text" id="visitorName" required placeholder="Dr. / Mr. / Ms. Full Name" style="width: 100%; background: #f8fafc; border: 1px solid #cbd5e1; border-radius: 6px; padding: 10px 14px; color: #0f172a; font-size: 14px; box-sizing: border-box; outline: none; transition: border-color 0.2s;">
       </div>
-      <div style="flex: 1; min-width: 240px;">
-        <label style="display: block; color: #f1f5f9; font-weight: 600; font-size: 14px; margin-bottom: 6px;">Your email *</label>
-        <input type="email" id="visitorEmail" required style="width: 100%; background: #1a221d; border: 1px solid #334155; border-radius: 8px; padding: 10px 12px; color: #ffffff; font-size: 14px; box-sizing: border-box; outline: none;">
+      <div>
+        <label style="display: block; color: #334155; font-weight: 600; font-size: 13px; text-transform: uppercase; letter-spacing: 0.04em; margin-bottom: 6px;">Email Address *</label>
+        <input type="email" id="visitorEmail" required placeholder="name@institution.edu" style="width: 100%; background: #f8fafc; border: 1px solid #cbd5e1; border-radius: 6px; padding: 10px 14px; color: #0f172a; font-size: 14px; box-sizing: border-box; outline: none; transition: border-color 0.2s;">
       </div>
     </div>
 
-    <div style="display: flex; gap: 16px; margin-bottom: 16px; flex-wrap: wrap;">
-      <div style="flex: 1; min-width: 240px;">
-        <label style="display: block; color: #f1f5f9; font-weight: 600; font-size: 14px; margin-bottom: 6px;">Organization</label>
-        <input type="text" id="visitorOrg" style="width: 100%; background: #1a221d; border: 1px solid #334155; border-radius: 8px; padding: 10px 12px; color: #ffffff; font-size: 14px; box-sizing: border-box; outline: none;">
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin-bottom: 16px;">
+      <div>
+        <label style="display: block; color: #334155; font-weight: 600; font-size: 13px; text-transform: uppercase; letter-spacing: 0.04em; margin-bottom: 6px;">Institution / Organization</label>
+        <input type="text" id="visitorOrg" placeholder="University or Company name" style="width: 100%; background: #f8fafc; border: 1px solid #cbd5e1; border-radius: 6px; padding: 10px 14px; color: #0f172a; font-size: 14px; box-sizing: border-box; outline: none; transition: border-color 0.2s;">
       </div>
-      <div style="flex: 1; min-width: 240px;">
-        <label style="display: block; color: #f1f5f9; font-weight: 600; font-size: 14px; margin-bottom: 6px;">Purpose *</label>
-        <select id="visitorPurpose" required style="width: 100%; background: #1a221d; border: 1px solid #334155; border-radius: 8px; padding: 10px 12px; color: #ffffff; font-size: 14px; box-sizing: border-box; outline: none;">
-          <option value="" disabled selected>Select one</option>
-          <option value="Academic Collaboration">Academic Collaboration</option>
-          <option value="Job / Recruitment Opportunity">Job / Recruitment Opportunity</option>
-          <option value="Speaking / Invited Talk">Speaking / Invited Talk</option>
-          <option value="General Inquiry">General Inquiry</option>
+      <div>
+        <label style="display: block; color: #334155; font-weight: 600; font-size: 13px; text-transform: uppercase; letter-spacing: 0.04em; margin-bottom: 6px;">Inquiry Type *</label>
+        <select id="visitorPurpose" required style="width: 100%; background: #f8fafc; border: 1px solid #cbd5e1; border-radius: 6px; padding: 10px 14px; color: #0f172a; font-size: 14px; box-sizing: border-box; outline: none;">
+          <option value="" disabled selected>Select purpose...</option>
+          <option value="Research & Academic Collaboration">Research & Academic Collaboration</option>
+          <option value="Postdoctoral / Employment Opportunity">Postdoctoral / Employment Opportunity</option>
+          <option value="Invited Seminar / Presentation">Invited Seminar / Presentation</option>
+          <option value="General Professional Contact">General Professional Contact</option>
         </select>
       </div>
     </div>
 
     <div style="margin-bottom: 24px;">
-      <label style="display: block; color: #f1f5f9; font-weight: 600; font-size: 14px; margin-bottom: 6px;">Message</label>
-      <textarea id="visitorMessage" rows="4" placeholder="Anything that helps me respond (optional)" style="width: 100%; background: #1a221d; border: 1px solid #334155; border-radius: 8px; padding: 10px 12px; color: #ffffff; font-size: 14px; box-sizing: border-box; resize: vertical; outline: none;"></textarea>
+      <label style="display: block; color: #334155; font-weight: 600; font-size: 13px; text-transform: uppercase; letter-spacing: 0.04em; margin-bottom: 6px;">Additional Notes</label>
+      <textarea id="visitorMessage" rows="3" placeholder="Provide any additional context or details..." style="width: 100%; background: #f8fafc; border: 1px solid #cbd5e1; border-radius: 6px; padding: 10px 14px; color: #0f172a; font-size: 14px; box-sizing: border-box; resize: vertical; outline: none;"></textarea>
     </div>
 
-    <div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap; margin-bottom: 20px;">
-      <button type="submit" style="background-color: #22c55e; color: #052e16; border: none; padding: 12px 24px; border-radius: 24px; font-weight: 700; font-size: 15px; cursor: pointer; transition: background-color 0.2s;">Send request</button>
-      <button type="button" onclick="copyEmailAddress()" style="background-color: transparent; color: #ffffff; border: 1px solid #475569; padding: 12px 24px; border-radius: 24px; font-weight: 600; font-size: 15px; cursor: pointer;">Copy my email address</button>
-      <span id="copyNotice" style="color: #4ade80; font-size: 13px; display: none;">Copied to clipboard!</span>
+    <div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap; margin-bottom: 16px;">
+      <button type="submit" style="background-color: #2563eb; color: #ffffff; border: none; padding: 10px 20px; border-radius: 6px; font-weight: 600; font-size: 14px; cursor: pointer; box-shadow: 0 1px 2px rgba(0,0,0,0.05);">Submit Request</button>
+      <button type="button" onclick="copyEmailAddress()" style="background-color: #f1f5f9; color: #334155; border: 1px solid #cbd5e1; padding: 10px 20px; border-radius: 6px; font-weight: 600; font-size: 14px; cursor: pointer;">Copy Direct Email</button>
+      <span id="copyNotice" style="color: #16a34a; font-size: 13px; font-weight: 600; display: none;">✓ Email copied to clipboard</span>
     </div>
 
-    <p style="color: #64748b; font-size: 13px; margin: 0;">
-      Sending opens your email app with the request already written. Nothing is stored on this website.
+    <p style="color: #94a3b8; font-size: 12px; margin: 0; line-height: 1.4;">
+      <em>Note: Clicking "Submit Request" opens your primary email client with a formatted message addressed to Dr. Tipu.</em>
     </p>
   </form>
 </div>
@@ -62,21 +64,21 @@ function sendCVEmail(event) {
   
   const name = document.getElementById('visitorName').value;
   const email = document.getElementById('visitorEmail').value;
-  const org = document.getElementById('visitorOrg').value || 'N/A';
+  const org = document.getElementById('visitorOrg').value || 'Not specified';
   const purpose = document.getElementById('visitorPurpose').value;
-  const message = document.getElementById('visitorMessage').value || 'N/A';
+  const message = document.getElementById('visitorMessage').value || 'None';
   
   const myEmail = "mtipu@umd.edu";
-  const subject = encodeURIComponent(`CV Request: ${name} (${org})`);
+  const subject = encodeURIComponent(`CV Request from ${name} [${org}]`);
   const body = encodeURIComponent(
-    `Hello Dr. Tipu,\n\nI would like to request a copy of your full CV.\n\n` +
-    `-- Request Details --\n` +
+    `Dear Dr. Tipu,\n\nI am writing to request a copy of your full Curriculum Vitae.\n\n` +
+    `--- Contact Information ---\n` +
     `Name: ${name}\n` +
     `Email: ${email}\n` +
-    `Organization: ${org}\n` +
-    `Purpose: ${purpose}\n\n` +
-    `Message / Context:\n${message}\n\n` +
-    `Best regards,\n${name}`
+    `Organization / Institution: ${org}\n` +
+    `Inquiry Type: ${purpose}\n\n` +
+    `--- Additional Details ---\n${message}\n\n` +
+    `Sincerely,\n${name}`
   );
 
   window.location.href = `mailto:${myEmail}?subject=${subject}&body=${body}`;
