@@ -1,0 +1,9 @@
+---
+---
+@import "minima";
+
+.wrapper {
+  max-width: 92% !important;
+  padding-left: 24px !important;
+  padding-right: 24px !important;
+}
