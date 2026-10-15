@@ -2,8 +2,19 @@
 ---
 @import "minima";
 
+/* Expand layout container to full screen width */
 .wrapper {
-  max-width: 92% !important;
-  padding-left: 24px !important;
-  padding-right: 24px !important;
+  max-width: 95% !important;
+  width: 95% !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+}
+
+/* Ensure main content area stretches across large screens */
+.page-content {
+  padding: 20px 0 !important;
+}
+
+.post-content {
+  width: 100% !important;
 }
