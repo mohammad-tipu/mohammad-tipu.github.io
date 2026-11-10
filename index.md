@@ -15,22 +15,22 @@ title: Home
     
     <!-- Left Column: Photo Card -->
     <div>
-      <img src="assets/profile.jpg" alt="Mohammad Monirul Hasan Tipu" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.1); border: 1px solid #e2e8f0; display: block;">
+      <img src="profile.jpg" alt="Mohammad Monirul Hasan Tipu" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.1); border: 1px solid #e2e8f0; display: block;">
     </div>
 
-    <!-- Right Column: Biography Text -->
+    <!-- Right Column: Non-Redundant Biography Text -->
     <div style="color: #334155; font-size: 16px; line-height: 1.75;">
       <p style="margin-top: 0;">
-        I am a tree fruit physiologist and molecular pomologist specializing in fruit abscission dynamics, plant growth regulators, and post-harvest quality preservation. Currently, I serve as a <strong>Postdoctoral Associate</strong> in the Department of Plant Science and Landscape Architecture at the <strong>University of Maryland, College Park</strong>, working in the Farcuh Lab.
+        I am a horticulturist and tree fruit physiologist specializing in fruit ripening, pre-harvest drop, abscission dynamics, plant growth regulators (PGRs), and post-harvest quality preservation. Currently, I serve as a <strong>Postdoctoral Associate</strong> in the Department of Plant Science and Landscape Architecture at the <strong>University of Maryland, College Park</strong>, investigating cold storage regimes and quality retention in commercial apple cultivars.
       </p>
       <p>
-        My current postdoctoral research investigates cold storage regimes (0°C vs. 3°C) and custom 1-methylcyclopropene (1-MCP) treatments to preserve firmness and suppress physiological disorders in commercial apple cultivars including 'Ambrosia' and 'Fuji'.
+        I earned my Ph.D. in Horticulture from <strong>Virginia Tech</strong> under the advisement of Dr. Sherif M. Sherif at the Alson H. Smith Jr. AREC in Winchester, VA. My doctoral dissertation investigated novel plant growth regulator combinations (AVG, ACC, NAA) to decouple pre-harvest fruit drop from ripening traits in 'Honeycrisp' apples, combining reactive oxygen species (ROS) profiling with RNA-Seq transcriptomics of the pedicel-cortex abscission zone.
       </p>
       <p>
-        I earned my Ph.D. in Horticulture from <strong>Virginia Tech</strong> under the advisement of Dr. Sherif M. Sherif at the Alson H. Smith Jr. AREC in Winchester, VA. My doctoral dissertation focused on decoupling fruit drop from ripening traits in 'Honeycrisp' apples using plant growth regulator (PGR) combinations (AVG, ACC, NAA), reactive oxygen species (ROS) profiling, and RNA-Seq transcriptomic analysis of the pedicel-cortex abscission zone.
+        Prior to my doctoral studies in the USA, I worked as a Scientific Officer at the Bangladesh Agricultural Research Institute (BARI), leading diagnostic surveys for Citrus Greening (HLB). I hold both a B.Sc. in Agriculture and an M.Sc. in Plant Pathology from Bangladesh Agricultural University.
       </p>
-      <p>
-        Prior to my doctoral studies in the USA, I served as a Scientific Officer at the Bangladesh Agricultural Research Institute (BARI), conducting nationwide diagnostic surveys on Citrus Greening (HLB). I hold both a B.Sc. in Agriculture and an M.Sc. in Plant Pathology from Bangladesh Agricultural University.
+      <p style="background: #f8fafc; border-left: 4px solid #2563eb; padding: 14px 18px; border-radius: 0 8px 8px 0; color: #1e293b; margin-top: 20px;">
+        <strong>Current Objective:</strong> Backed by an interdisciplinary background across horticulture, plant pathology, and agronomy, I am an experienced researcher skilled in leading projects from experimental design and field/laboratory execution to data analysis and peer-reviewed publication. I am currently seeking <strong>faculty, research, and extension opportunities</strong> in academia where I can drive innovative research, secure competitive funding, and bridge the gap between laboratory discoveries and practical field solutions for fruit growers.
       </p>
     </div>
 
@@ -44,7 +44,7 @@ title: Home
     
     <ul style="list-style: none; padding-left: 0; margin: 0; font-size: 15px; color: #334155; line-height: 2;">
       <li>
-        <strong>Email:</strong> <a href="mailto:mtipu@umd.edu" style="color: #2563eb; text-decoration: none; font-weight: 500;">mtipu@umd.edu</a>
+        <strong>Email:</strong> <a href="mailto:tipuvt2022@gmail.com" style="color: #2563eb; text-decoration: none; font-weight: 500;">tipuvt2022@gmail.com</a>
       </li>
       <li>
         <strong>Research Profiles:</strong> 
