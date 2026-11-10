@@ -24,7 +24,7 @@ title: Home
         I am a horticulturist and tree fruit physiologist specializing in fruit ripening, pre-harvest drop, abscission dynamics, plant growth regulators (PGRs), and post-harvest quality preservation.
       </p>
       <p>
-        I earned my Ph.D. in Horticulture from <strong>Virginia Tech</strong> under the advisement of Dr. Sherif M. Sherif at the Alson H. Smith Jr. AREC in Winchester, VA. My doctoral dissertation investigated novel plant growth regulator combinations (AVG, ACC, NAA) to decouple pre-harvest fruit drop from ripening traits in 'Honeycrisp' apples, combining reactive oxygen species (ROS) profiling with RNA-Seq transcriptomics of the pedicel-cortex abscission zone.
+        I earned my Ph.D. in Horticulture from <strong>Virginia Tech</strong> under the advisement of Dr. Sherif M. Sherif at the Alson H. Smith Jr. AREC in Winchester, VA. My doctoral dissertation investigated novel plant growth regulator combinations (AVG, ACC, NAA) and antioxidants to decouple pre-harvest fruit drop from ripening traits in 'Honeycrisp' apples, combining physiological and molecular approaches to evaluate cellular separation and signaling in the pedicel-spur abscission zone.
       </p>
       <p>
         Prior to my doctoral studies in the USA, I worked as a Scientific Officer at the Bangladesh Agricultural Research Institute (BARI), leading multidisciplinary research in fruits and vegetables. I hold both a B.Sc. in Agriculture and an M.Sc. in Plant Pathology from Bangladesh Agricultural University.
