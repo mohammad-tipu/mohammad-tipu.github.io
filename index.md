@@ -21,17 +21,17 @@ title: Home
     <!-- Right Column: Non-Redundant Biography Text -->
     <div style="color: #334155; font-size: 16px; line-height: 1.75;">
       <p style="margin-top: 0;">
-        I am a horticulturist and tree fruit physiologist specializing in fruit ripening, pre-harvest drop, abscission dynamics, plant growth regulators (PGRs), and post-harvest quality preservation. Currently, I serve as a <strong>Postdoctoral Associate</strong> in the Department of Plant Science and Landscape Architecture at the <strong>University of Maryland, College Park</strong>, investigating cold storage regimes and quality retention in commercial apple cultivars.
+        I am a horticulturist and tree fruit physiologist specializing in fruit ripening, pre-harvest drop, abscission dynamics, plant growth regulators (PGRs), and post-harvest quality preservation.
       </p>
       <p>
         I earned my Ph.D. in Horticulture from <strong>Virginia Tech</strong> under the advisement of Dr. Sherif M. Sherif at the Alson H. Smith Jr. AREC in Winchester, VA. My doctoral dissertation investigated novel plant growth regulator combinations (AVG, ACC, NAA) to decouple pre-harvest fruit drop from ripening traits in 'Honeycrisp' apples, combining reactive oxygen species (ROS) profiling with RNA-Seq transcriptomics of the pedicel-cortex abscission zone.
       </p>
       <p>
-        Prior to my doctoral studies in the USA, I worked as a Scientific Officer at the Bangladesh Agricultural Research Institute (BARI), leading diagnostic surveys for Citrus Greening (HLB). I hold both a B.Sc. in Agriculture and an M.Sc. in Plant Pathology from Bangladesh Agricultural University.
+        Prior to my doctoral studies in the USA, I worked as a Scientific Officer at the Bangladesh Agricultural Research Institute (BARI), leading multidisciplinary research in fruits and vegetables. I hold both a B.Sc. in Agriculture and an M.Sc. in Plant Pathology from Bangladesh Agricultural University.
       </p>
-      <p style="background: #f8fafc; border-left: 4px solid #2563eb; padding: 14px 18px; border-radius: 0 8px 8px 0; color: #1e293b; margin-top: 20px;">
-        <strong>Current Objective:</strong> Backed by an interdisciplinary background across horticulture, plant pathology, and agronomy, I am an experienced researcher skilled in leading projects from experimental design and field/laboratory execution to data analysis and peer-reviewed publication. I am currently seeking <strong>faculty, research, and extension opportunities</strong> in academia where I can drive innovative research, secure competitive funding, and bridge the gap between laboratory discoveries and practical field solutions for fruit growers.
-      </p>
+      <p style="background: #f8fafc; border-left: 4px solid #2563eb; padding: 16px 20px; border-radius: 0 8px 8px 0; color: #1e293b; margin-top: 24px; margin-left: 50px;">
+  <strong>Current Objective:</strong> Backed by an interdisciplinary background across horticulture, plant pathology, and agronomy, I am an experienced researcher skilled in leading projects from experimental design and field/laboratory execution to data analysis and peer-reviewed publication. I am currently seeking <strong>faculty, research, and extension opportunities</strong> in academia where I can drive innovative research, secure competitive funding, and bridge the gap between laboratory discoveries and practical field solutions for fruit growers.
+</p>
     </div>
 
   </div>
