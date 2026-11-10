@@ -31,7 +31,7 @@ title: Home
       </p>
       <p style="background: #f8fafc; border-left: 4px solid #2563eb; padding: 16px 20px; border-radius: 0 8px 8px 0; color: #1e293b; margin-top: 24px; margin-left: 50px;">
   <strong>Current Objective:</strong> Backed by an interdisciplinary background across horticulture, plant pathology, and agronomy, I am an experienced researcher skilled in leading projects from experimental design and field/laboratory execution to data analysis and peer-reviewed publication. I am currently seeking <strong>faculty, research, and extension opportunities</strong> in academia where I can drive innovative research, secure competitive funding, and bridge the gap between laboratory discoveries and practical field solutions for fruit growers.
-</p>
+      </p>
     </div>
 
   </div>
