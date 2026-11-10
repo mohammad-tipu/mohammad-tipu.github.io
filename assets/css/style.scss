@@ -2,19 +2,14 @@
 ---
 @import "minima";
 
-/* Expand layout container to full screen width */
+/* Expand Jekyll container to full screen width (landscape mode) */
 .wrapper {
-  max-width: 95% !important;
-  width: 95% !important;
-  padding-left: 20px !important;
-  padding-right: 20px !important;
+  max-width: 96% !important;
+  width: 96% !important;
+  padding-left: 24px !important;
+  padding-right: 24px !important;
 }
 
-/* Ensure main content area stretches across large screens */
 .page-content {
   padding: 20px 0 !important;
-}
-
-.post-content {
-  width: 100% !important;
 }
