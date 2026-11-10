@@ -3,106 +3,61 @@ layout: default
 title: Home
 ---
 
-<!-- Unique Hero Header with Gradient Accent -->
-<div style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); color: #ffffff; border-radius: 16px; padding: 36px; margin-bottom: 32px; box-shadow: 0 10px 25px rgba(0,0,0,0.15); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
-  <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 20px;">
-    <div style="max-width: 650px;">
-      <span style="background: rgba(34, 197, 94, 0.2); color: #4ade80; border: 1px solid rgba(34, 197, 94, 0.4); padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase;">Tree Fruit Physiology & Molecular Biology</span>
-      <h1 style="color: #ffffff; margin: 12px 0 8px 0; font-size: 32px; font-weight: 800; tracking: -0.02em;">Mohammad Monirul Hasan Tipu, Ph.D.</h1>
-      <p style="color: #cbd5e1; font-size: 16px; font-weight: 500; margin-0 0 16px 0; line-height: 1.5;">
-        Postdoctoral Associate — Department of Plant Science & Landscape Architecture<br>
-        <strong style="color: #38bdf8;">University of Maryland, College Park</strong>
-      </p>
-      <p style="color: #94a3b8; font-size: 14px; line-height: 1.6; margin-bottom: 24px;">
-        Investigating pre-harvest fruit drop mechanisms, plant growth regulator (PGR) signaling, abscission zone transcriptomics, and post-harvest storage physiology in commercial apple cultivars.
-      </p>
-      <div style="display: flex; gap: 12px; flex-wrap: wrap;">
-        <a href="mailto:mtipu@umd.edu" style="background: #22c55e; color: #052e16; padding: 10px 18px; border-radius: 8px; font-weight: 700; font-size: 13px; text-decoration: none;">Contact Dr. Tipu</a>
-        <a href="/research.html" style="background: rgba(255,255,255,0.1); color: #ffffff; border: 1px solid rgba(255,255,255,0.2); padding: 10px 18px; border-radius: 8px; font-weight: 600; font-size: 13px; text-decoration: none;">Explore Research</a>
-        <a href="/cv.html" style="background: rgba(255,255,255,0.1); color: #ffffff; border: 1px solid rgba(255,255,255,0.2); padding: 10px 18px; border-radius: 8px; font-weight: 600; font-size: 13px; text-decoration: none;">Request CV</a>
-      </div>
-    </div>
-  </div>
-</div>
+<!-- Full Width Container -->
+<div style="width: 100%; max-width: 1400px; margin: 0 auto; padding: 20px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
 
-<!-- Creative Interactive Feature: Research Continuum Pathway -->
-<div style="margin-bottom: 40px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
-  <h2 style="color: #0f172a; font-size: 22px; margin-bottom: 8px;">The Orchard-to-Chamber Continuum</h2>
-  <p style="color: #64748b; font-size: 14px; margin-bottom: 20px;">An integrated physiological pipeline connecting canopy dynamics to molecular pathways and post-harvest quality.</p>
+  <!-- Main Headline -->
+  <h1 style="font-size: 32px; font-weight: 700; color: #0f172a; margin-top: 0; margin-bottom: 8px;">Hi there!</h1>
+  <p style="font-size: 18px; font-weight: 600; color: #334155; margin-top: 0; margin-bottom: 28px;">Thank you for visiting my site!</p>
 
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px;">
+  <!-- Side-by-Side Landscape Grid (Photo Left + Bio Right) -->
+  <div style="display: grid; grid-template-columns: minmax(280px, 360px) 1fr; gap: 40px; align-items: start; margin-bottom: 40px;">
     
-    <!-- Stage 1 -->
-    <div style="background: #f8fafc; border-left: 4px solid #16a34a; border-radius: 8px; padding: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.03);">
-      <div style="font-size: 11px; font-weight: 700; color: #16a34a; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 6px;">Stage 01 | Field & Canopy</div>
-      <h3 style="margin: 0 0 8px 0; font-size: 17px; color: #0f172a;">Pre-Harvest Drop & PGRs</h3>
-      <p style="color: #475569; font-size: 13px; line-height: 1.5; margin: 0;">
-        Decoupling fruit abscission from peel coloration in 'Honeycrisp' using AVG, ACC, and NAA growth regulator combinations.
-      </p>
+    <!-- Left Column: Photo Card -->
+    <div>
+      <img src="assets/profile.jpg" alt="Mohammad Monirul Hasan Tipu" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.1); border: 1px solid #e2e8f0; display: block;">
     </div>
 
-    <!-- Stage 2 -->
-    <div style="background: #f8fafc; border-left: 4px solid #0284c7; border-radius: 8px; padding: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.03);">
-      <div style="font-size: 11px; font-weight: 700; color: #0284c7; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 6px;">Stage 02 | Controlled Storage</div>
-      <h3 style="margin: 0 0 8px 0; font-size: 17px; color: #0f172a;">1-MCP & Cold Regimes</h3>
-      <p style="color: #475569; font-size: 13px; line-height: 1.5; margin: 0;">
-        Profiling storage performance (0°C vs 3°C air) and 1-methylcyclopropene tent applications on 'Ambrosia' and 'Fuji' cultivars.
+    <!-- Right Column: Biography Text -->
+    <div style="color: #334155; font-size: 16px; line-height: 1.75;">
+      <p style="margin-top: 0;">
+        I am a tree fruit physiologist and molecular pomologist specializing in fruit abscission dynamics, plant growth regulators, and post-harvest quality preservation. Currently, I serve as a <strong>Postdoctoral Associate</strong> in the Department of Plant Science and Landscape Architecture at the <strong>University of Maryland, College Park</strong>, working in the Farcuh Lab.
       </p>
-    </div>
-
-    <!-- Stage 3 -->
-    <div style="background: #f8fafc; border-left: 4px solid #9333ea; border-radius: 8px; padding: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.03);">
-      <div style="font-size: 11px; font-weight: 700; color: #9333ea; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 6px;">Stage 03 | Molecular & Lab</div>
-      <h3 style="margin: 0 0 8px 0; font-size: 17px; color: #0f172a;">Transcriptomics & ROS</h3>
-      <p style="color: #475569; font-size: 13px; line-height: 1.5; margin: 0;">
-        CTAB tissue extraction, DESeq2 RNA-Seq profiling, qRT-PCR validation, and reactive oxygen species quantification in cortex and pedicel tissues.
+      <p>
+        My current postdoctoral research investigates cold storage regimes (0°C vs. 3°C) and custom 1-methylcyclopropene (1-MCP) treatments to preserve firmness and suppress physiological disorders in commercial apple cultivars including 'Ambrosia' and 'Fuji'.
+      </p>
+      <p>
+        I earned my Ph.D. in Horticulture from <strong>Virginia Tech</strong> under the advisement of Dr. Sherif M. Sherif at the Alson H. Smith Jr. AREC in Winchester, VA. My doctoral dissertation focused on decoupling fruit drop from ripening traits in 'Honeycrisp' apples using plant growth regulator (PGR) combinations (AVG, ACC, NAA), reactive oxygen species (ROS) profiling, and RNA-Seq transcriptomic analysis of the pedicel-cortex abscission zone.
+      </p>
+      <p>
+        Prior to my doctoral studies in the USA, I served as a Scientific Officer at the Bangladesh Agricultural Research Institute (BARI), conducting nationwide diagnostic surveys on Citrus Greening (HLB). I hold both a B.Sc. in Agriculture and an M.Sc. in Plant Pathology from Bangladesh Agricultural University.
       </p>
     </div>
 
   </div>
-</div>
 
-<!-- Novel Concept: Methodological Competencies Console -->
-<div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 28px; margin-bottom: 32px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
-  <h2 style="color: #0f172a; font-size: 20px; margin-top: 0; margin-bottom: 16px;">Experimental Capabilities & Analytical Tools</h2>
-  
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px;">
-    <div>
-      <h4 style="color: #1e293b; margin: 0 0 8px 0; font-size: 14px; text-transform: uppercase; letter-spacing: 0.03em;">Physiology Assays</h4>
-      <ul style="padding-left: 18px; margin: 0; color: #64748b; font-size: 13px; line-height: 1.8;">
-        <li>Gas Chromatography (IEC)</li>
-        <li>DA-Meter ($I_{AD}$) & Skin Color</li>
-        <li>Acoustic Firmness & SSC/TA</li>
-        <li>Cell Separation Analysis</li>
-      </ul>
-    </div>
+  <hr style="border: 0; border-top: 1px solid #cbd5e1; margin: 36px 0;">
+
+  <!-- Contact & Links Section -->
+  <div>
+    <h2 style="font-size: 22px; font-weight: 700; color: #0f172a; margin-top: 0; margin-bottom: 16px;">Contact & Profiles</h2>
     
-    <div>
-      <h4 style="color: #1e293b; margin: 0 0 8px 0; font-size: 14px; text-transform: uppercase; letter-spacing: 0.03em;">Biochemistry & Molecular</h4>
-      <ul style="padding-left: 18px; margin: 0; color: #64748b; font-size: 13px; line-height: 1.8;">
-        <li>CTAB Recalcitrant RNA Extraction</li>
-        <li>qRT-PCR Gene Expression</li>
-        <li>ROS ($H_2O_2, O_2^{\bullet-}$) Quantification</li>
-        <li>Lipid Peroxidation (MDA)</li>
-      </ul>
-    </div>
-
-    <div>
-      <h4 style="color: #1e293b; margin: 0 0 8px 0; font-size: 14px; text-transform: uppercase; letter-spacing: 0.03em;">Bioinformatics & Code</h4>
-      <ul style="padding-left: 18px; margin: 0; color: #64748b; font-size: 13px; line-height: 1.8;">
-        <li>Salmon & tximport Alignment</li>
-        <li>DESeq2 Differential Expression</li>
-        <li>KEGG Pathway Enrichment</li>
-        <li>R Statistical Modeling & JMP</li>
-      </ul>
-    </div>
+    <ul style="list-style: none; padding-left: 0; margin: 0; font-size: 15px; color: #334155; line-height: 2;">
+      <li>
+        <strong>Email:</strong> <a href="mailto:mtipu@umd.edu" style="color: #2563eb; text-decoration: none; font-weight: 500;">mtipu@umd.edu</a>
+      </li>
+      <li>
+        <strong>Research Profiles:</strong> 
+        <a href="https://scholar.google.com" target="_blank" style="color: #2563eb; text-decoration: none;">Google Scholar</a> · 
+        <a href="https://www.researchgate.net" target="_blank" style="color: #2563eb; text-decoration: none;">ResearchGate</a> · 
+        <a href="https://orcid.org" target="_blank" style="color: #2563eb; text-decoration: none;">ORCID</a>
+      </li>
+      <li>
+        <strong>Professional Networks:</strong> 
+        <a href="https://www.linkedin.com" target="_blank" style="color: #2563eb; text-decoration: none;">LinkedIn</a> · 
+        <a href="https://github.com/tipubari2013" target="_blank" style="color: #2563eb; text-decoration: none;">GitHub</a>
+      </li>
+    </ul>
   </div>
+
 </div>
-
----
-
-### Academic Background
-* **Postdoctoral Associate** — University of Maryland, College Park (2026 – Present)
-* **Ph.D. in Horticulture** — Virginia Tech (Alson H. Smith Jr. AREC)
-* **Scientific Officer / Research Assistant** — Bangladesh Agricultural Research Institute (BARI)
-* **M.S. & B.S. in Agriculture** — Bangladesh Agricultural University
