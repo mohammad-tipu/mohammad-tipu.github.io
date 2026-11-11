@@ -1,6 +1,4 @@
 title: Mohammad Monirul Hasan Tipu, Ph.D.
-email: tipuvt2022@gmail.com
-description: Postdoctoral Associate | Tree Fruit Physiology & Molecular Pomology
 theme: minima
 
 header_pages:
@@ -8,3 +6,4 @@ header_pages:
   - research.md
   - publications.md
   - cv.md
+  - contact.md
