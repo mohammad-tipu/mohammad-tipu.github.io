@@ -2,7 +2,7 @@
 ---
 @import "minima";
 
-/* Expand main content container width */
+/* 1. Full-Width Landscape Container */
 .wrapper {
   max-width: 96% !important;
   width: 96% !important;
@@ -10,52 +10,59 @@
   padding-right: 24px !important;
 }
 
-/* 1. Header Container & Banner Styling */
+/* 2. Top Header Container & Wide Banner Setup */
 .site-header {
   border-top: 5px solid #2563eb;
   background-color: #ffffff;
   padding-top: 16px;
-  padding-bottom: 16px;
-  border-bottom: 1px solid #e2e8f0;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #cbd5e1;
 }
 
-/* Insert Wide Banner Image directly above the Header Content */
+/* Wide Header Banner Image */
 .site-header::before {
   content: "";
   display: block;
   width: 100%;
-  height: 220px; /* Adjust height for your wide banner image */
-  background-image: url('/header-banner.jpg'); /* Path to your banner image */
+  height: 240px;
+  background-image: url("{{ '/header-banner.jpg' | relative_url }}");
   background-size: cover;
   background-position: center;
-  border-radius: 8px;
-  margin-bottom: 20px;
+  border-radius: 12px;
+  margin-bottom: 24px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
 
-/* 2. Bold Site Title Styling */
+/* 3. Bold Site Title (Forces Title to Own Line Above Navbar) */
 .site-title {
   font-weight: 800 !important;
-  font-size: 24px !important;
+  font-size: 26px !important;
   color: #0f172a !important;
   letter-spacing: -0.01em;
-  display: block !important; /* Forces navigation links onto a new line below */
-  margin-bottom: 12px;
+  display: block !important;
+  float: none !important;
+  margin-bottom: 16px;
 }
 
-/* 3. Navigation Links (Positioned Below & Spaced Out) */
+/* 4. Spaced Navigation Bar Directly Below Title */
 .site-nav {
-  float: none !important; /* Removes float to ensure links sit on their own line */
-  display: block !important;
+  float: none !important;
+  display: flex !important;
+  gap: 12px;
+  flex-wrap: wrap;
   margin-top: 8px;
+  background-color: #f8fafc;
+  padding: 10px 16px;
+  border-radius: 8px;
+  border: 1px solid #e2e8f0;
 }
 
 .site-nav .page-link {
   font-weight: 600 !important;
   font-size: 15px !important;
   color: #334155 !important;
-  margin-right: 24px !important; /* Generous spacing between nav links */
-  padding: 6px 12px !important;
-  background-color: #f1f5f9;
+  padding: 6px 14px !important;
+  margin: 0 !important;
   border-radius: 6px;
   transition: all 0.2s ease;
 }
