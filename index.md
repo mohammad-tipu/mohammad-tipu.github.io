@@ -18,7 +18,7 @@ title: Home
       <img src="profile.jpg" alt="Mohammad Monirul Hasan Tipu" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.1); border: 1px solid #e2e8f0; display: block;">
     </div>
 
-    <!-- Right Column: Revised Biography Text -->
+    <!-- Right Column: Biography Text -->
     <div style="color: #334155; font-size: 16px; line-height: 1.75;">
       <p style="margin-top: 0;">
         I am a horticulturist and tree fruit physiologist specializing in fruit ripening, pre-harvest drop, abscission dynamics, plant growth regulators (PGRs), and post-harvest quality preservation.
@@ -36,30 +36,6 @@ title: Home
   <!-- Far-Left Aligned Callout Box -->
   <div style="background: #f8fafc; border-left: 4px solid #2563eb; padding: 16px 20px; border-radius: 0 8px 8px 0; color: #1e293b; margin-top: 10px; margin-bottom: 36px; max-width: 100%;">
     <strong>Current Objective:</strong> Backed by an interdisciplinary background across horticulture, plant pathology, and agronomy, I am an experienced researcher skilled in leading projects from experimental design and field/laboratory execution to data analysis and peer-reviewed publication. I am currently seeking <strong>faculty, research, and extension opportunities</strong> in academia where I can drive innovative research, secure competitive funding, and bridge the gap between laboratory discoveries and practical field solutions for fruit growers.
-  </div>
-
-  <hr style="border: 0; border-top: 1px solid #cbd5e1; margin: 36px 0;">
-
-  <!-- Contact & Links Section -->
-  <div>
-    <h2 style="font-size: 22px; font-weight: 700; color: #0f172a; margin-top: 0; margin-bottom: 16px;">Contact & Profiles</h2>
-    
-    <ul style="list-style: none; padding-left: 0; margin: 0; font-size: 15px; color: #334155; line-height: 2;">
-      <li>
-        <strong>Email:</strong> <a href="mailto:tipuvt2022@gmail.com" style="color: #2563eb; text-decoration: none; font-weight: 500;">tipuvt2022@gmail.com</a>
-      </li>
-      <li>
-        <strong>Research Profiles:</strong> 
-        <a href="https://scholar.google.com" target="_blank" style="color: #2563eb; text-decoration: none;">Google Scholar</a> · 
-        <a href="https://www.researchgate.net" target="_blank" style="color: #2563eb; text-decoration: none;">ResearchGate</a> · 
-        <a href="https://orcid.org" target="_blank" style="color: #2563eb; text-decoration: none;">ORCID</a>
-      </li>
-      <li>
-        <strong>Professional Networks:</strong> 
-        <a href="https://www.linkedin.com" target="_blank" style="color: #2563eb; text-decoration: none;">LinkedIn</a> · 
-        <a href="https://github.com/tipubari2013" target="_blank" style="color: #2563eb; text-decoration: none;">GitHub</a>
-      </li>
-    </ul>
   </div>
 
 </div>
