@@ -27,6 +27,9 @@ title: Home
         I earned my Ph.D. in Horticulture from <strong>Virginia Tech</strong> under the advisement of Dr. Sherif M. Sherif at the Alson H. Smith Jr. AREC in Winchester, VA. My doctoral dissertation investigated novel plant growth regulator combinations (AVG, ACC, NAA) and antioxidants to decouple pre-harvest fruit drop from ripening traits in 'Honeycrisp' apples, combining physiological and molecular approaches to evaluate cellular separation and signaling in the pedicel-spur abscission zone.
       </p>
       <p>
+        In addition to my primary doctoral work at the Alson H. Smith Jr. Agricultural Research and Extension Center (AREC), I collaborated on research tackling climate-driven weather extremes, evaluating frost-mitigation strategies to safeguard apple and peach blossoms from spring freeze injury.
+      </p>
+      <p style="margin-bottom: 0;">
         Prior to my doctoral studies in the USA, I worked as a Scientific Officer at the Bangladesh Agricultural Research Institute (BARI), leading multidisciplinary research in fruits and vegetables. I hold both a B.Sc. in Agriculture and an M.Sc. in Plant Pathology from Bangladesh Agricultural University.
       </p>
     </div>
