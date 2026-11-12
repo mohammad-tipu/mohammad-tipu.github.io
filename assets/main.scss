@@ -10,7 +10,7 @@
   padding-right: 24px !important;
 }
 
-/* 2. Top Header Container & Wide Banner */
+/* 2. Top Header Container & Full Uncropped Banner */
 .site-header {
   border-top: 5px solid #2563eb;
   background-color: #ffffff;
@@ -19,19 +19,16 @@
   border-bottom: 1px solid #cbd5e1;
 }
 
-/* Wide Header Banner Image - Exact 3584x1184 Proportions */
-.site-header::before {
-  content: "";
+.header-banner-container {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.header-banner-container img {
   display: block;
   width: 100%;
-  height: 0;
-  padding-top: 33.0357%; /* Exact ratio: 1184 / 3584 */
-  background-image: url("/header-banner.jpg");
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
+  height: auto;
   border-radius: 12px;
-  margin-bottom: 24px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
 
