@@ -12,10 +12,20 @@ My research bridges whole-canopy tree fruit physiology, post-harvest quality pre
 ## 1. Post-Harvest Physiology & Cold Storage Dynamics (UMD)
 *Postdoctoral Research | Department of Plant Science & Landscape Architecture, University of Maryland, College Park*
 
-Post-harvest storage strategies must balance firmness retention, metabolic stability, and physiological disorder mitigation. My current research focuses on:
-* **Storage Temperature Regimes:** Evaluating physiological responses and fruit quality dynamics under standard commercial cold storage regimes (0°C vs. 3°C regular air).
-* **Ethylene Perception Inhibition (1-MCP):** Assessing the efficacy of 1-methylcyclopropene treatments in custom sealed enclosures to suppress ethylene synthesis and maintain hormonal balance in commercial cultivars such as 'Ambrosia' and 'Fuji'.
-* **Post-Storage Shelf-Life Tracking:** Profiling internal ethylene concentration (IEC), soluble solids content (SSC), titratable acidity (TA), hormonal and genomic profiles during extended room temperature (20°C) shelf-life evaluations following cold storage.
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 28px; align-items: center; margin-top: 16px;">
+  <div>
+    <p>Post-harvest storage strategies must balance firmness retention, metabolic stability, and physiological disorder mitigation. My current research focuses on:</p>
+    <ul>
+      <li><strong>Storage Temperature Regimes:</strong> Evaluating physiological responses and fruit quality dynamics under standard commercial cold storage regimes (0°C vs. 3°C regular air).</li>
+      <li><strong>Ethylene Perception Inhibition (1-MCP):</strong> Assessing the efficacy of 1-methylcyclopropene treatments in custom sealed enclosures to suppress ethylene synthesis and maintain hormonal balance in commercial cultivars such as 'Ambrosia' and 'Fuji'.</li>
+      <li><strong>Post-Storage Shelf-Life Tracking:</strong> Profiling internal ethylene concentration (IEC), soluble solids content (SSC), titratable acidity (TA), hormonal and genomic profiles during extended room temperature (20°C) shelf-life evaluations following cold storage.</li>
+    </ul>
+  </div>
+  <div>
+    <img src="postharvest-1mcp.jpg" alt="1-MCP Postharvest Fruit Quality Optimization Setup" style="width: 100%; height: auto; border-radius: 10px; border: 1px solid #e2e8f0; box-shadow: 0 4px 12px rgba(0,0,0,0.08); display: block;">
+    <p style="font-size: 13px; color: #64748b; text-align: center; margin-top: 8px; margin-bottom: 0;"><em>1-MCP treatment and cold storage quality evaluation setup.</em></p>
+  </div>
+</div>
 
 ---
 
