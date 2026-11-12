@@ -9,14 +9,13 @@ My research bridges whole-canopy tree fruit physiology, post-harvest quality pre
 
 ---
 
-## 1. Post-Harvest Physiology & Cold Storage Dynamics (UMD)
-*Postdoctoral Research | Department of Plant Science & Landscape Architecture, University of Maryland, College Park*
-
-<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: stretch; margin-top: 16px;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center; margin-top: 10px;">
   
-  <!-- Left Column: Text (Determines the row height) -->
+  <!-- Left Column: Heading + Subtitle + Text -->
   <div style="flex: 1 1 380px;">
-    <p style="margin-top: 0;">Post-harvest storage strategies must balance firmness retention, metabolic stability, and physiological disorder mitigation. My current research focuses on:</p>
+    <h2 style="margin-top: 0;">1. Post-Harvest Physiology & Cold Storage Dynamics (UMD)</h2>
+    <p><em>Postdoctoral Research | Department of Plant Science & Landscape Architecture, University of Maryland, College Park</em></p>
+    <p>Post-harvest storage strategies must balance firmness retention, metabolic stability, and physiological disorder mitigation. My current research focuses on:</p>
     <ul style="margin-bottom: 0;">
       <li><strong>Storage Temperature Regimes:</strong> Evaluating physiological responses and fruit quality dynamics under standard commercial cold storage regimes (0°C vs. 3°C regular air).</li>
       <li><strong>Ethylene Perception Inhibition (1-MCP):</strong> Assessing the efficacy of 1-methylcyclopropene treatments in custom sealed enclosures to suppress ethylene synthesis and maintain hormonal balance in commercial cultivars such as 'Ambrosia' and 'Fuji'.</li>
@@ -24,9 +23,9 @@ My research bridges whole-canopy tree fruit physiology, post-harvest quality pre
     </ul>
   </div>
 
-  <!-- Right Column: Image (Matches the exact height of the text column) -->
-  <div style="flex: 0 0 260px; max-width: 100%; position: relative; min-height: 220px;">
-    <img src="postharvest-1mcp.jpg" alt="1-MCP Postharvest Fruit Quality Optimization Setup" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; border-radius: 10px; border: 1px solid #e2e8f0; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+  <!-- Right Column: Image -->
+  <div style="flex: 0 0 260px; max-width: 100%;">
+    <img src="postharvest-1mcp.jpg" alt="1-MCP Postharvest Fruit Quality Optimization Setup" style="width: 100%; height: auto; border-radius: 10px; border: 1px solid #e2e8f0; box-shadow: 0 4px 12px rgba(0,0,0,0.08); display: block;">
   </div>
 
 </div>
