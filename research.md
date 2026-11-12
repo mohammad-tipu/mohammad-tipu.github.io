@@ -35,10 +35,24 @@ My research bridges whole-canopy tree fruit physiology, post-harvest quality pre
 ## 2. Decoupling Fruit Drop from Ripening & Color Enhancement (Virginia Tech)
 *Doctoral Dissertation Research | Alson H. Smith Jr. AREC, Virginia Tech*
 
-A major commercial challenge in apple production (*Malus × domestica*) is the trade-off between allowing fruit to hang long enough to develop red color and preventing pre-harvest fruit drop:
-* **Synergistic Plant Growth Regulator (PGR) Strategies:** Investigated combinations of aminoethoxyvinylglycine (AVG, an ethylene biosynthesis inhibitor) and 1-aminocyclopropane-1-carboxylic acid (ACC, an ethylene precursor) or naphthaleneacetic acid (NAA) to decouple fruit abscission from ripening and enhance peel red coloration in cultivars like 'Honeycrisp'.
-* **Abscission Zone (AZ) Dynamics:** Characterized cell separation events, reactive oxygen species (ROS) accumulation (superoxide and hydrogen peroxide), and cellular degradation in the pedicel abscission zone.
-* **Molecular Profiling & Gene Expression:** Conducted RNA-Seq, DESeq2 differential expression, and qRT-PCR validation on canonical ethylene-auxin pathway components and stress-responsive regulatory genes to elucidate hormonal crosstalk with ROS homeostasis governing fruit retention.
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: stretch; margin-top: 16px;">
+  
+  <!-- Left Column: Text -->
+  <div style="flex: 1 1 380px;">
+    <p style="margin-top: 0;">A major commercial challenge in apple production (<em>Malus × domestica</em>) is the trade-off between allowing fruit to hang long enough to develop red color and preventing pre-harvest fruit drop:</p>
+    <ul style="margin-bottom: 0;">
+      <li><strong>Synergistic Plant Growth Regulator (PGR) Strategies:</strong> Investigated combinations of aminoethoxyvinylglycine (AVG, an ethylene biosynthesis inhibitor) and 1-aminocyclopropane-1-carboxylic acid (ACC, an ethylene precursor) or naphthaleneacetic acid (NAA) to decouple fruit abscission from ripening and enhance peel red coloration in cultivars like 'Honeycrisp'.</li>
+      <li><strong>Abscission Zone (AZ) Dynamics:</strong> Characterized cell separation events, reactive oxygen species (ROS) accumulation (superoxide and hydrogen peroxide), and cellular degradation in the pedicel abscission zone.</li>
+      <li><strong>Molecular Profiling & Gene Expression:</strong> Conducted RNA-Seq, DESeq2 differential expression, and qRT-PCR validation on canonical ethylene-auxin pathway components and stress-responsive regulatory genes to elucidate hormonal crosstalk with ROS homeostasis governing fruit retention.</li>
+    </ul>
+  </div>
+
+  <!-- Right Column: Image (Matches Section 1 alignment and height) -->
+  <div style="flex: 0 0 260px; max-width: 100%; position: relative; min-height: 220px; margin-top: -14px;">
+    <img src="honeycrisp-drop.jpg" alt="Decoupling Pre-Harvest Fruit Drop and Ripening in Honeycrisp Apples" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; border-radius: 10px; border: 1px solid #e2e8f0; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+  </div>
+
+</div>
 
 ---
 
