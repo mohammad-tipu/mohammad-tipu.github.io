@@ -19,14 +19,15 @@
   border-bottom: 1px solid #cbd5e1;
 }
 
-/* Wide Header Banner Image - Full Uncropped Fit */
+/* Wide Header Banner Image - Exact 3584x1184 Proportions */
 .site-header::before {
   content: "";
   display: block;
   width: 100%;
-  aspect-ratio: 3.2 / 1;
+  height: 0;
+  padding-top: 33.0357%; /* Exact ratio: 1184 / 3584 */
   background-image: url("/header-banner.jpg");
-  background-size: 100% 100%;
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
   border-radius: 12px;
