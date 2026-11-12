@@ -29,13 +29,23 @@ A major commercial challenge in apple production (*Malus × domestica*) is the t
 
 ---
 
-## 3. Plant Pathology, Citrus Greening (HLB), & Crop Protection (BARI)
+## 3. Climate Resilience & Spring Frost Risk Mitigation (Virginia Tech)
+*Collaborative Research | Alson H. Smith Jr. AREC, Virginia Tech*
+
+Unpredictable late-spring frost events pose a severe economic threat to temperate tree fruit production by damaging sensitive floral tissues during bloom:
+- **Spring Freeze Protection Strategies:** Collaborated on field trials evaluating targeted frost-mitigation treatments to protect apple and peach blossoms against acute spring freeze injury.
+- **Flower Bud Cold Hardiness & Survival:** Assessed floral bud mortality, fruit set, and yield stability following late-spring cold events to identify practical risk-reduction protocols for commercial orchardists.
+
+---
+
+## 4. Plant Pathology, Citrus Greening (HLB), & Applied Crop Research (BARI)
 *Scientific Officer & Research Assistant | Bangladesh Agricultural Research Institute*
 
-Prior to my doctoral work, my research focused on plant disease diagnostics, molecular identification of phloem-limited pathogens, and integrated pest/disease management:
-* **Citrus Greening (Huanglongbing - HLB):** Conducted molecular detection and confirmation of *Candidatus* Liberibacter asiaticus in Bangladesh across sweet orange and mandarin orchards; developed symptom-based visual diagnostic toolkits for growers.
-* **Viral Pathogens:** Documented the first report and distribution of Citrus Tristeza Virus (CTV) in Bangladesh using serological and molecular assays.
-* **Integrated Disease & Pest Management (IDM/IPM):** Formulated field management packages for vegetable and root crops, including sweet potato weevil (*Cylas formicarius*), soil-borne pathogens (*Athelia rolfsii*), and bacterial/fungal complexes in Solanaceous crops.
+Prior to my doctoral work, I led and collaborated on multidisciplinary laboratory and applied field research addressing key production constraints in horticultural and staple crops:
+- **Multidisciplinary Applied Research & Variety Trials:** Collaborated on regional adaptability, agronomic performance, and disease-resistance evaluations across diverse tuber crop (potato, sweet potato), fruit, and vegetable germplasm to support cultivar release and grower adoption.
+- **Citrus Greening (Huanglongbing - HLB):** Conducted molecular detection and confirmation of *Candidatus* Liberibacter asiaticus in Bangladesh across sweet orange and mandarin orchards; developed symptom-based visual diagnostic toolkits for growers.
+- **Viral Pathogens:** Documented the first report and distribution of Citrus Tristeza Virus (CTV) in Bangladesh using serological and molecular assays.
+- **Integrated Disease & Pest Management (IDM/IPM):** Formulated field management packages for vegetable and root crops, including sweet potato weevil (*Cylas formicarius*), soil-borne pathogens (*Athelia rolfsii*), and bacterial/fungal complexes in Solanaceous crops.
 
 ---
 
@@ -46,4 +56,4 @@ Prior to my doctoral work, my research focused on plant disease diagnostics, mol
 | **Physiology & Fruit Quality** | Internal Ethylene Concentration (Gas Chromatography), DA-meter index, acoustic firmness, colorimetry, starch-iodine index, titratable acidity |
 | **Biochemistry** | Spectrophotometric quantification of pigments, non-structural carbohydrates and ROS |
 | **Molecular Biology** | CTAB RNA/DNA extraction from recalcitrant fruit tissues, cDNA synthesis, RT-qPCR, primer design, basic tissue culture |
-| **Bioinformatics & Analytics** | RNA-Seq analysis (Salmon, tximport, DESeq2), KEGG pathway enrichment, DAVID functional annotation, R (`ggplot2`, `agricolae`, `patchwork`), JMP statistical modeling (ANOVA, Tukey’s HSD) |
+| **Bioinformatics & Analytics** | RStudio statistical modeling and visualization, RNA-Seq analysis, KEGG pathway enrichment, DAVID functional annotation  |
