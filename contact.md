@@ -18,14 +18,14 @@ title: Contact
       <li style="margin-bottom: 12px;">
         <strong style="color: #0f172a; font-size: 17px;">Research Profiles:</strong><br>
         <a href="https://scholar.google.com/citations?user=ATOV70kAAAAJ&hl=en&oi=ao" target="_blank" style="color: #2563eb; text-decoration: none; font-weight: 500;">Google Scholar</a> · 
-        <a href="https://www.researchgate.net" target="_blank" style="color: #2563eb; text-decoration: none; font-weight: 500;">ResearchGate</a> · 
-        <a href="https://orcid.org" target="_blank" style="color: #2563eb; text-decoration: none; font-weight: 500;">ORCID</a>
+        <a href="https://www.researchgate.net/profile/Mohammad-Tipu" target="_blank" style="color: #2563eb; text-decoration: none; font-weight: 500;">ResearchGate</a> · 
+        <a href="https://orcid.org/0000-0002-5613-6607" target="_blank" style="color: #2563eb; text-decoration: none; font-weight: 500;">ORCID</a>
       </li>
       
       <li>
         <strong style="color: #0f172a; font-size: 17px;">Professional Networks:</strong><br>
         <a href="https://www.linkedin.com/in/mohammad-monirul-hasan/" target="_blank" style="color: #2563eb; text-decoration: none; font-weight: 500;">LinkedIn</a> · 
-        <a href="https://github.com/tipubari2013" target="_blank" style="color: #2563eb; text-decoration: none; font-weight: 500;">GitHub</a>
+        <a href="https://x.com/tipubari2013" target="_blank" style="color: #2563eb; text-decoration: none; font-weight: 500;">X (formerly Twitter)</a>
       </li>
     </ul>
 
